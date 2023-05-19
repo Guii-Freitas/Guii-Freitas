@@ -9,7 +9,6 @@
 <br>
 
 <div  align="center"> 
-  <div style="display: inline_block"><br>
    <h2>Main skills </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,7 +17,6 @@
   <img align="center" alt="Gui-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Gui-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Gui-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div>
 
 <h2>Conecte-me</h2>
 <div>
